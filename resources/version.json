@@ -1,11 +1,9 @@
 {
   "projects": [
     {
-      "treadrun": {
-        "version": "0.0.0.0",
-        "name": "TreadRun",
-        "copyright": "(c) SimuNews 2021"
-      }
+      "name": "TreadRun",
+      "version": "0.0.0.0",
+      "copyright": "(c) SimuNews 2021"
     }
   ]
 }
