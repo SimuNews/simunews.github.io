@@ -3,54 +3,63 @@
     "style_name": "Standard",
     "url": "http://a.tile.openstreetmap.org/{z}/{x}/{y}",
     "pro": false,
-    "user_default": true
+    "user_default": true,
+    "mapbox": false
   },
   {
     "style_name": "Dark",
-    "url": "https://api.mapbox.com/styles/v1/simunews/ckqf4cseb0mbp17o8zvmnjbc8/tiles/{z}/{x}/{y}?access_token=sk.eyJ1Ijoic2ltdW5ld3MiLCJhIjoiY2t5eTRld2FpMDBvMjJvbzFxY2l6dTJveiJ9.PRuoHwJneb5GVAIRauSh7Q",
+    "url": "https://api.mapbox.com/styles/v1/simunews/ckqf4cseb0mbp17o8zvmnjbc8/tiles/{z}/{x}/{y}",
     "pro": false,
-    "user_default": false
+    "user_default": false,
+    "mapbox": true
   },
   {
     "style_name": "Light",
     "url": "http://a.tile.openstreetmap.org/{z}/{x}/{y}",
     "pro": true,
-    "user_default": false
+    "user_default": false,
+    "mapbox": true
   },
   {
     "style_name": "Blueprint",
-    "url": "https://api.mapbox.com/styles/v1/simunews/ckqf4q8qp2tpq17qmoqavxkbl/tiles/{z}/{x}/{y}?access_token=sk.eyJ1Ijoic2ltdW5ld3MiLCJhIjoiY2t5eTRld2FpMDBvMjJvbzFxY2l6dTJveiJ9.PRuoHwJneb5GVAIRauSh7Q",
+    "url": "https://api.mapbox.com/styles/v1/simunews/ckqf4q8qp2tpq17qmoqavxkbl/tiles/{z}/{x}/{y}",
     "pro": true,
-    "user_default": false
+    "user_default": false,
+    "mapbox": true
   },
   {
     "style_name": "Pencil",
-    "url": "https://api.mapbox.com/styles/v1/simunews/ckyy5nc0w000n15qrwo391w8m/tiles/{z}/{x}/{y}?access_token=sk.eyJ1Ijoic2ltdW5ld3MiLCJhIjoiY2t5eTRld2FpMDBvMjJvbzFxY2l6dTJveiJ9.PRuoHwJneb5GVAIRauSh7Q",
+    "url": "https://api.mapbox.com/styles/v1/simunews/ckyy5nc0w000n15qrwo391w8m/tiles/{z}/{x}/{y}",
     "pro": true,
-    "user_default": false
+    "user_default": false,
+    "mapbox": true
   },
   {
     "style_name": "Toner",
     "url": "https://stamen-tiles.a.ssl.fastly.net/toner/{z}/{x}/{y}",
     "pro": false,
-    "user_default": false
+    "user_default": false,
+    "mapbox": false
   },
   {
     "style_name": "Watercolor",
     "url": "http://c.tile.stamen.com/watercolor/{z}/{x}/{y}",
     "pro": false,
-    "user_default": false
+    "user_default": false,
+    "mapbox": false
   },
   {
     "style_name": "Snowy",
-    "url": "https://api.mapbox.com/styles/v1/simunews/ckyy6l0h8007616ofcijjq37a/tiles/{z}/{x}/{y}?access_token=sk.eyJ1Ijoic2ltdW5ld3MiLCJhIjoiY2t5eTRld2FpMDBvMjJvbzFxY2l6dTJveiJ9.PRuoHwJneb5GVAIRauSh7Q",
+    "url": "https://api.mapbox.com/styles/v1/simunews/ckyy6l0h8007616ofcijjq37a/tiles/{z}/{x}/{y}",
     "pro": true,
-    "user_default": false
+    "user_default": false,
+    "mapbox": true
   },
   {
     "style_name": "Matrix",
     "url": "http://a.tile.openstreetmap.org/{z}/{x}/{y}",
     "pro": true,
-    "user_default": false
+    "user_default": false,
+    "mapbox": true
   }
 ]
